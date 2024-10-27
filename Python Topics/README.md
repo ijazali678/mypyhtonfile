@@ -1,2 +1,2 @@
-# mypyhtonfile
-all codes and notes how i learn python
+# This File is all about basics of python 
+Start your Python Journey from zero, Simple, short and practical way of learning python 
